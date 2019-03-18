@@ -58,3 +58,5 @@ Logic Design Laboratory
 * 11-1 : VGA
 * 11-2 : Calculator
 * 11-3 : TETRIS (Uncompleted!!!)
+
+## Final Project
