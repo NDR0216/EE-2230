@@ -57,4 +57,4 @@ Logic Design Laboratory
 ### Lab11 : VGA
 * 11-1 : VGA
 * 11-2 : Calculator
-* 11-3 : TETRIS
+* 11-3 : TETRIS (Uncompleted!!!)
