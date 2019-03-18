@@ -49,6 +49,7 @@ Logic Design Laboratory
 * 9-1 - Keyboard
 * 9-2 - Single Digit Decimal Adder
 * 9-3 - Two-Digit Decimal Adder/Subtractor/Multiplier
+* 9-4 - "Caps"
 ### Lab10 : Electronic Organ
 * 10-1 : Notes
 * 10-2 : Electronic Organ
