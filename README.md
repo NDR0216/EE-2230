@@ -53,7 +53,7 @@ Logic Design Laboratory
 ### Lab10 : Electronic Organ
 * 10-1 : Notes
 * 10-2 : Electronic Organ
-* 10-3 : Double Tones by Separate Left and Right Channels
+* 10-3 (Bo : Double Tones by Separate Left and Right Channels
 ### Lab11 : VGA
 * 11-1 : VGA
 * 11-2 : Calculator
