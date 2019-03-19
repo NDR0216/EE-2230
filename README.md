@@ -18,21 +18,21 @@ Logic Design Laboratory
 * 2-3 (Bonus) - 4-bit Unsigned Number Comparator
 ### Lab3 : Counters
 * Prelab - 4-bit Synchronous Binary Up Counter
-* 3-1 - Frequency Divider (1/2<sup>27</sup> f)
-* 3-2 - Frequency Divider (1 Hz)
+* 3-1 - Freq. Divider (1/2<sup>27</sup> f)
+* 3-2 - Freq. Divider (1 Hz)
 * 3-3 - 4-bit Synchronous Binary Up Counter (Same as Prelab3)
 * 3-4 - Single Digit BCD Up Counter
 * 3-5 (Bonus) - 30s Count Down Timer
 ### Lab4 : Shift Registers
 * Prelab - Ring Counter
 * 4-1 - Ring Counter (Same as Prelab4)
-* 4-2 - Ring Counter (with Randomly Initialize)
+* 4-2 - Ring Counter (w/ Randomly Initialize)
 * 4-3 - NTHUEE
 * 4-4 (Bonus) - Functional/Arithmetic/Barrel Shifter
 ### Lab5 : Timers
 * Prelab - Pause/Start Function
-* 5-1 - 30s Down Counter with Pause Function
-* 5-2 - 30s Down Counter with Pause Function (with only One Button)
+* 5-1 - 30s Down Counter w/ Pause Function
+* 5-2 - 30s Down Counter w/ Pause Function (w/ only One Button)
 * 5-3 (Bonus) - Multi-Function Timer
 ### Lab6 : Electronic Clock I (Time Display)
 * 6-1 - 24-hour
@@ -53,7 +53,7 @@ Logic Design Laboratory
 ### Lab10 : Electronic Organ
 * 10-1 : Notes
 * 10-2 : Electronic Organ
-* 10-3 (Bo : Double Tones by Separate Left and Right Channels
+* 10-3 (Bonus) : Double Tones by Separate Left and Right Channels
 ### Lab11 : VGA
 * 11-1 : VGA
 * 11-2 : Calculator
